@@ -1,6 +1,6 @@
 ---
 layout: page
-excerpt: "Research scientist        "
+excerpt: "Research scientist "
 ---
 
 ## Current Interests and Projects:
